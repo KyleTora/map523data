@@ -1,6 +1,6 @@
 {
   "student": "Kyle Tora",
-  "version": "MAP",
+  "version": "CPA",
   "count": 10,
   "data": [
     { "id": 1, "courseCode": "PRJ666", "courseName": "Project Implementation and Management" },
