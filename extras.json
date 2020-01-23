@@ -1,5 +1,6 @@
 {
- "enemy":[
+ "count": 9,
+ "enemy": [
     {
     "name": "Scavengers",
     "level": 1,
