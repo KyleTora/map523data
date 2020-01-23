@@ -1,63 +1,67 @@
 {
-  "name": "Scavengers",
-  "level": 1,
-  "totalTroops": 10,
-  "totalDamage": 100,
-  "totalHealth": 200
- }
- {
-  "name": "Scavengers",
-  "level": 2,
-  "totalTroops": 20,
-  "totalDamage": 200,
-  "totalHealth": 400
- }
- {
-  "name": "Scavengers",
-  "level": 3,
-  "totalTroops": 30,
-  "totalDamage": 300,
-  "totalHealth": 600
- }
- {
-  "name": "Mercenaries",
-  "level": 1,
-  "totalTroops": 8,
-  "totalDamage": 160,
-  "totalHealth": 240
- }
-  {
-  "name": "Mercenaries",
-  "level": 2,
-  "totalTroops": 16,
-  "totalDamage": 320,
-  "totalHealth": 480
- }
-  {
-  "name": "Mercenaries",
-  "level": 3,
-  "totalTroops": 24,
-  "totalDamage": 480,
-  "totalHealth": 720
- }
- {
-  "name": "Bersekers",
-  "level": 1,
-  "totalTroops": 25,
-  "totalDamage": 500,
-  "totalHealth": 1000
- }
-  {
-  "name": "Bersekers",
-  "level": 2,
-  "totalTroops": 50,
-  "totalDamage": 1000,
-  "totalHealth": 2000
- }
-  {
-  "name": "Bersekers",
-  "level": 3,
-  "totalTroops": 100,
-  "totalDamage": 2000,
-  "totalHealth": 4000
- }
+ "enemy":[
+    {
+    "name": "Scavengers",
+    "level": 1,
+    "totalTroops": 10,
+    "totalDamage": 100,
+    "totalHealth": 200
+   }
+   {
+    "name": "Scavengers",
+    "level": 2,
+    "totalTroops": 20,
+    "totalDamage": 200,
+    "totalHealth": 400
+   }
+   {
+    "name": "Scavengers",
+    "level": 3,
+    "totalTroops": 30,
+    "totalDamage": 300,
+    "totalHealth": 600
+   }
+   {
+    "name": "Mercenaries",
+    "level": 1,
+    "totalTroops": 8,
+    "totalDamage": 160,
+    "totalHealth": 240
+   }
+    {
+    "name": "Mercenaries",
+    "level": 2,
+    "totalTroops": 16,
+    "totalDamage": 320,
+    "totalHealth": 480
+   }
+    {
+    "name": "Mercenaries",
+    "level": 3,
+    "totalTroops": 24,
+    "totalDamage": 480,
+    "totalHealth": 720
+   }
+   {
+    "name": "Bersekers",
+    "level": 1,
+    "totalTroops": 25,
+    "totalDamage": 500,
+    "totalHealth": 1000
+   }
+    {
+    "name": "Bersekers",
+    "level": 2,
+    "totalTroops": 50,
+    "totalDamage": 1000,
+    "totalHealth": 2000
+   }
+    {
+    "name": "Bersekers",
+    "level": 3,
+    "totalTroops": 100,
+    "totalDamage": 2000,
+    "totalHealth": 4000
+   }
+ ]
+}
